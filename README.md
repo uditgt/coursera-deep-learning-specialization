@@ -11,3 +11,4 @@ Focus of these exercises was to carefully piecing together the different equatio
 
 ## References:
 * Dropout regularization, Gofrrey Hinton (2014) [link](https://jmlr.org/papers/v15/srivastava14a.html)
+* Xavier initialization (2010) [link](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
