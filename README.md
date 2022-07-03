@@ -7,3 +7,7 @@ The coursework provides a foundational understanding of a neural network. Differ
 3. Deep neural network - test accuracy of 82% [notebook](https://github.com/uditgt/DeepLearning/blob/main/Deep%20Neural%20Network%20from%20scratch.ipynb)
 
 Focus of these exercises was to carefully piecing together the different equations for forward and backward pass, in vectorized form, to build a functioning neural network.
+
+
+## References:
+* Dropout regularization, Gofrrey Hinton (2014) [link](https://jmlr.org/papers/v15/srivastava14a.html)
