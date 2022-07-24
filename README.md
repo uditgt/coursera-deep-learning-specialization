@@ -14,6 +14,12 @@ The course focuses on how to tune a neural networks, and discusses hyper-paramet
 ## Structuring Machine Learning Projects
 The courses focuses on lots of practical do's and dont's when working on a ML project, including metric selection, structuring different datasets (train, train-dev, dev, test), analysing errors, addressing data mismatch, transfer learning, multi-task learning, structuring problems as end-to-end deep learning model vs. breaking into smaller parts. 
 
+## Convolution Neural Networks
+This course takes on whirlwind tour into the fastastic world of CNNs. Provides a foundational understanding manipulating 3D /volume data, how convolution and pooling operations work, what different layers mean and represent. After coding Forward and Backward propogation functions from scratch (using just numpy), we learn TensorFlow's - [Sequential API](https://www.tensorflow.org/guide/keras/sequential_model) and [Functional API](https://www.tensorflow.org/guide/keras/functional). 
+
+Next we go over various architectures published over the years (and use some through transfer learning) - LeNet, AlexNet, VGG, ResNet, Inception Networks, MobileNet - learning various tricks developed in these networks. Object localization and detection tasks, including learning about bounding box, sliding window through convolution, IoU, non-max suppression, semantic segmentation using YOLO, U-Net architectures. Next we look at face recognition tasks using Siamese Network, DeepFace, FaceNet. Finally, we look at Neural Style Transfer architecture used for merging 'content' and 'style' images. 
+
+
 ## References:
 * Dropout regularization, Gofrrey Hinton (2014) [link](https://jmlr.org/papers/v15/srivastava14a.html)
 * Xavier initialization (2010) [link](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
