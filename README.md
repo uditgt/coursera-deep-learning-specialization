@@ -20,6 +20,9 @@ This course takes on whirlwind tour into the fastastic world of CNNs. Provides a
 Next we go over various architectures published over the years (and use some through transfer learning) - LeNet, AlexNet, VGG, ResNet, Inception Networks, MobileNet - learning various tricks developed in these networks. Object localization and detection tasks, including learning about bounding box, sliding window through convolution, IoU, non-max suppression, semantic segmentation using YOLO, U-Net architectures. Next we look at face recognition tasks using Siamese Network, DeepFace, FaceNet. Finally, we look at Neural Style Transfer architecture used for merging 'content' and 'style' images. 
 
 
-## References:
+## Other Resources:
+* Computer Vision lecture [series](https://pjreddie.com/courses/computer-vision/) by Joseph Redmon, [youtube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) playlist
+* Deeplearning Lectures [playlist](https://www.youtube.com/c/Deeplearningai/playlists)
+
 * Dropout regularization, Gofrrey Hinton (2014) [link](https://jmlr.org/papers/v15/srivastava14a.html)
 * Xavier initialization (2010) [link](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
