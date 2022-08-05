@@ -1,4 +1,4 @@
-# Deep Learning specialization by Deeplearning.ai
+# [Deep Learning specialization by Deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/Y23QW2JU39ZE)
 
 ## Neural Networks & Deep Learning
 The coursework provides a foundational understanding of a neural network. Different NN-based classifier models were built from scratch, using first principles - forward & backward propagation, calculating gradients and optimizing using gradient descent approach, **using mostly NumPy**. Classifiers built:
