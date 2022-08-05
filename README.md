@@ -2,9 +2,9 @@
 
 ## Neural Networks & Deep Learning
 The coursework provides a foundational understanding of a neural network. Different NN-based classifier models were built from scratch, using first principles - forward & backward propagation, calculating gradients and optimizing using gradient descent approach, **using mostly NumPy**. Classifiers built:
-1. Logistic regression classifier (as a single layer neural network) - test accuracy of ~70% [notebook](https://github.com/uditgt/DeepLearning/blob/main/Logistic%20Regression%20from%20scratch.ipynb)
-2. Shallow neural network - test accuracy of ~72% [notebook](https://github.com/uditgt/DeepLearning/blob/main/Neural%20Network%20from%20scratch.ipynb)
-3. Deep neural network - test accuracy of 82% [notebook](https://github.com/uditgt/DeepLearning/blob/main/Deep%20Neural%20Network%20from%20scratch.ipynb)
+1. Building Logistic regression classifier (as a single layer neural network) - test accuracy of ~70% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.1%20Building%20Logistic%20Regression%20as%20NN.ipynb)
+2. Building Shallow neural network - test accuracy of ~72% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.2%20Building%20Shallow%20NN%20using%20NumPy.ipynb)
+3. Building Deep neural network - test accuracy of 82% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.3%20Building%20Deep%20NN%20using%20NumPy.ipynb)
 
 Focus of these exercises was on carefully piecing together the different equations for forward and backward pass, in vectorized form, to build a functioning neural network.
 
