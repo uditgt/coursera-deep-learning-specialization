@@ -19,10 +19,15 @@ This course takes on whirlwind tour into the fastastic world of CNNs. Provides a
 
 Next we go over various architectures published over the years (and use some through transfer learning) - LeNet, AlexNet, VGG, ResNet, Inception Networks, MobileNet - learning various tricks developed in these networks. Object localization and detection tasks, including learning about bounding box, sliding window through convolution, IoU, non-max suppression, semantic segmentation using YOLO, U-Net architectures. Next we look at face recognition tasks using Siamese Network, DeepFace, FaceNet. Finally, we look at Neural Style Transfer architecture used for merging 'content' and 'style' images. 
 
+## SEQUENCE MODELS
+In this course we learn about **RNN models** used when input and/or output data consists of a time 'sequence'. We look at **GRU & LSTM units** which have a memory cell and improve performance, by resolving the vanishing gradient problem and allowing for learning longer context/ relationships in data. Next we look at different architectures for RNN (1:1, 1:many, many:many etc.), including extensions such as **Bi-directional & Deep RNNs**.
+Next we look at application of RNNs for **NLP** tasks, such as language modeling - sequence generation, learning word embedding (word2vec, GloVe), sentiment classification; machine translation (beam search algorithm, Bleu score, attention model, CTC cost function), trigger word detection with audio data.
 
-## Other Resources:
+
+
+
+## Interesting References:
 * Computer Vision lecture [series](https://pjreddie.com/courses/computer-vision/) by Joseph Redmon, [youtube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) playlist
 * Deeplearning Lectures [playlist](https://www.youtube.com/c/Deeplearningai/playlists)
-
 * Dropout regularization, Gofrrey Hinton (2014) [link](https://jmlr.org/papers/v15/srivastava14a.html)
 * Xavier initialization (2010) [link](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
