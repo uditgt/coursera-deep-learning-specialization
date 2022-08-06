@@ -1,5 +1,7 @@
 # [Deep Learning specialization by Deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/Y23QW2JU39ZE)
 
+[Lecture Notes](https://github.com/uditgt/coursera_deeplearning_specialization/tree/main/notes) | [Quizzes](https://github.com/uditgt/coursera_deeplearning_specialization/tree/main/quizzes) | [Paper Review & Summaries](https://github.com/uditgt/coursera_deeplearning_specialization/tree/main/papers) | [Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/Y23QW2JU39ZE)
+
 ## Neural Networks & Deep Learning
 The coursework provides a foundational understanding of a neural network. Different NN-based classifier models were built from scratch, using first principles - forward & backward propagation, calculating gradients and optimizing using gradient descent approach, **using mostly NumPy**. Classifiers built:
 1. Building Logistic regression classifier (as a single layer neural network) - test accuracy of ~70% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.1%20Building%20Logistic%20Regression%20as%20NN.ipynb)
@@ -19,7 +21,7 @@ This course takes on whirlwind tour into the fastastic world of CNNs. Provides a
 
 Next we go over various architectures published over the years (and use some through transfer learning) - LeNet, AlexNet, VGG, ResNet, Inception Networks, MobileNet - learning various tricks developed in these networks. Object localization and detection tasks, including learning about bounding box, sliding window through convolution, IoU, non-max suppression, semantic segmentation using YOLO, U-Net architectures. Next we look at face recognition tasks using Siamese Network, DeepFace, FaceNet. Finally, we look at Neural Style Transfer architecture used for merging 'content' and 'style' images. 
 
-## SEQUENCE MODELS
+## Sequence Models
 In this course we learn about **RNN models** used when input and/or output data consists of a time 'sequence'. We look at **GRU & LSTM units** which have a memory cell and improve performance, by resolving the vanishing gradient problem and allowing for learning longer context/ relationships in data. Next we look at different architectures for RNN (1:1, 1:many, many:many etc.), including extensions such as **Bi-directional & Deep RNNs**.
 Next we look at application of RNNs for **NLP** tasks, such as language modeling - sequence generation, learning word embedding (word2vec, GloVe), sentiment classification; machine translation (beam search algorithm, Bleu score, attention model, CTC cost function), trigger word detection with audio data.
 
