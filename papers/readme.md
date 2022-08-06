@@ -6,5 +6,5 @@
   * Style is calculated as 'Gram matrix', which is basically element-wise sumproduct between (two at a time) channels of a layer
   * Start with a white noise image, and modify it using gradient descent to minimize the cost function.
  
-  <p align="center"><img width="400" height="200" src="https://github.com/uditgt/DeepLearning/blob/main/papers/image_gatys.png"></p>
+  <p align="center"><img width="600" height="200" src="https://github.com/uditgt/DeepLearning/blob/main/papers/images/image_gatys.png"></p>
   
