@@ -39,8 +39,13 @@ Next we go over various architectures published over the years (and use some thr
 In this course we learn about **RNN models** used when input and/or output data consists of a time 'sequence'. We look at **GRU & LSTM units** which have a memory cell and improve performance, by resolving the vanishing gradient problem and allowing for learning longer context/ relationships in data. Next we look at different architectures for RNN (1:1, 1:many, many:many etc.), including extensions such as **Bi-directional & Deep RNNs**.
 Next we look at application of RNNs for **NLP** tasks, such as language modeling - sequence generation, learning word embedding (word2vec, GloVe), sentiment classification; machine translation (beam search algorithm, Bleu score, attention model, CTC cost function), trigger word detection with audio data.
 
-
-
+* Building a Language Model using just NumPy and making up Dinosaur names (Ychosaurus!) [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.1%20Building%20Language%20model%20using%20NumPy%20(and%20making%20up%20Dinosaur%20names).ipynb)
+* Audio sampling model (using LSTM) for generating Jazz music using Tensorflow [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.2%20RNN%20Audio%20-%20training%20and%20sampling%20jazz%20music.ipynb)
+* NLP - Exploring word Embeddings, Analogies and Gender-debiasing word vectors [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.3%20NLP%20-%20Word%20Embeddings%20%26%20Debiasing.ipynb)
+* NLP - Sentence classification to produce relevant emoji [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.4%20NLP%20-%20Emojify.ipynb)
+* NLP - Neural Machine Translation using Attention model [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.5%20NLP%20-%20Neural%20Machine%20Translation.ipynb)
+* NLP - Trigger word detection in audio data [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.6%20NLP%20-%20Trigger%20word%20detection.ipynb)
+* NLP - Introduction to Transformers [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.7%20NLP%20-%20Transformers.ipynb)
 
 ## Interesting References:
 * Computer Vision lecture [series](https://pjreddie.com/courses/computer-vision/) by Joseph Redmon, [youtube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) playlist
