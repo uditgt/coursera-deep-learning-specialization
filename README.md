@@ -4,14 +4,20 @@
 
 ## Neural Networks & Deep Learning
 The coursework provides a foundational understanding of a neural network. Different NN-based classifier models were built from scratch, using first principles - forward & backward propagation, calculating gradients and optimizing using gradient descent approach, **using mostly NumPy**. Classifiers built:
-1. Building Logistic regression classifier (as a single layer neural network) - test accuracy of ~70% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.1%20Building%20Logistic%20Regression%20as%20NN.ipynb)
-2. Building Shallow neural network - test accuracy of ~72% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.2%20Building%20Shallow%20NN%20using%20NumPy.ipynb)
-3. Building Deep neural network - test accuracy of 82% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.3%20Building%20Deep%20NN%20using%20NumPy.ipynb)
+* Building Logistic regression classifier (as a single layer neural network) - test accuracy of ~70% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.1%20Building%20Logistic%20Regression%20as%20NN.ipynb)
+* Building Shallow neural network - test accuracy of ~72% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.2%20Building%20Shallow%20NN%20using%20NumPy.ipynb)
+* Building Deep neural network - test accuracy of 82% [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/1.3%20Building%20Deep%20NN%20using%20NumPy.ipynb)
 
 Focus of these exercises was on carefully piecing together the different equations for forward and backward pass, in vectorized form, to build a functioning neural network.
 
 ## Improving Deep Neural Networks
 The course focuses on how to tune a neural networks, and discusses hyper-parameter tuning, regularization and optimization methods in more details. Including various approaches for **Regularization**, such as L2, drop-out, data augmentation; for **Optimization**, such as normalizing inputs, batch normalization, initializing neurons using Xavier method to manage variance to avoid vanishing/ exploding gradients; improving **Gradient Descent** algorithm by using mini-batches, Momentum / RMSprop / Adam methods, learning rate decay; more effectively tuning **Hyper-parameters** using random sampling approach (vs. grid search), prioritizing certain parameters over others, using appropriate scale for each hyper-parameter.
+
+* Initializing parameters using zeros (creates symmetry problem), random, or Xavier method [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/2.1%20Tuning%20Parameter%20Initialization.ipynb)
+* Applying regularization through dropout method or L2 regularization through cost function [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/2.2%20Regularization.ipynb)
+* Calculation gradeint using numerical approximation methods [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/2.3%20Gradient%20Checking.ipynb)
+* Using diff Optimization methods - Gradient Descent, GD with momentum, Adaptive-moment (Adam) [notebook](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/2.4%20Optimization%20Methods.ipynb)
+
 
 ## Structuring Machine Learning Projects
 The courses focuses on lots of practical do's and dont's when working on a ML project, including metric selection, structuring different datasets (train, train-dev, dev, test), analysing errors, addressing data mismatch, transfer learning, multi-task learning, structuring problems as end-to-end deep learning model vs. breaking into smaller parts. 
