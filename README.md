@@ -46,6 +46,10 @@ Next we look at application of RNNs for **NLP** tasks, such as language modeling
 * NLP - Neural Machine Translation using Attention model [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.5%20NLP%20-%20Neural%20Machine%20Translation.ipynb)
 * NLP - Trigger word detection in audio data [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.6%20NLP%20-%20Trigger%20word%20detection.ipynb)
 * NLP - Introduction to Transformers [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.7%20NLP%20-%20Transformers.ipynb)
+* NLP - Transformers - Intuition behinb Positional Encoding [notebook 📃](https://github.com/uditgt/coursera-deep-learning-specialization/blob/main/5.8%20NLP%20-%20Transformers%20-%20Positional%20encoding%20intuition.ipynb)
+* NLP - Transformers for Named Entity Recognition using [🤗 Huggingface](https://huggingface.co/) library [notebook 📃](https://github.com/uditgt/coursera-deep-learning-specialization/blob/main/5.9%20NLP%20-%20Transformers%20-%20Named%20entity%20recognition.ipynb)
+* NLP - Transformers for Question / Answer task using [🤗 Huggingface](https://huggingface.co/) library [notebook 📃]()
+
 
 ## Interesting References:
 * Computer Vision lecture [series](https://pjreddie.com/courses/computer-vision/) by Joseph Redmon, [🎥 playlist](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) playlist
