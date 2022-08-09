@@ -48,14 +48,11 @@ Next we look at application of RNNs for **NLP** tasks, such as language modeling
 * NLP - Introduction to Transformers [notebook 📃](https://github.com/uditgt/coursera_deeplearning_specialization/blob/main/5.7%20NLP%20-%20Transformers.ipynb)
 * NLP - Transformers - Intuition behinb Positional Encoding [notebook 📃](https://github.com/uditgt/coursera-deep-learning-specialization/blob/main/5.8%20NLP%20-%20Transformers%20-%20Positional%20encoding%20intuition.ipynb)
 * NLP - Transformers for Named Entity Recognition using [🤗 Huggingface](https://huggingface.co/) library [notebook 📃](https://github.com/uditgt/coursera-deep-learning-specialization/blob/main/5.9%20NLP%20-%20Transformers%20-%20Named%20entity%20recognition.ipynb)
-* NLP - Transformers for Question / Answer task using [🤗 Huggingface](https://huggingface.co/) library [notebook 📃]()
-
+* NLP - Transformers for Question / Answer task using [🤗 Huggingface](https://huggingface.co/) library [notebook 📃](https://github.com/uditgt/coursera-deep-learning-specialization/blob/main/5.10%20NLP%20-%20Transformers%20-%20Question%20Answering.ipynb)
 
 ## Interesting References:
 * Computer Vision lecture [series](https://pjreddie.com/courses/computer-vision/) by Joseph Redmon, [🎥 playlist](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) playlist
 * Deeplearning Lectures [🎥 playlist](https://www.youtube.com/c/Deeplearningai/playlists)
 * Yann LeCun's [website](http://yann.lecun.com/), [presentations](https://drive.google.com/drive/folders/0BxKBnD5y2M8NUXhZaXBCNXE4QlE?resourcekey=0-WtYv0wV-8DFNsFWfRUcpsw), [Deep Learning course @NYU](https://cds.nyu.edu/deep-learning/), [🎥 playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 * 🤗 Huggingface: [`transformers` package](https://pypi.org/project/transformers/), [model summary](https://huggingface.co/docs/transformers/model_summary), 
-
-* Dropout regularization, Gofrrey Hinton (2014) [link](https://jmlr.org/papers/v15/srivastava14a.html)
-* Xavier initialization (2010) [link](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+* Some other sources (not reviewed): [understanding transformers](http://peterbloem.nl/blog/transformers)
