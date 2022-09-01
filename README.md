@@ -56,3 +56,4 @@ Next we look at application of RNNs for **NLP** tasks, such as language modeling
 * Yann LeCun's [website](http://yann.lecun.com/), [presentations](https://drive.google.com/drive/folders/0BxKBnD5y2M8NUXhZaXBCNXE4QlE?resourcekey=0-WtYv0wV-8DFNsFWfRUcpsw), [Deep Learning course @NYU](https://cds.nyu.edu/deep-learning/), [🎥 playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 * 🤗 Huggingface: [`transformers` package](https://pypi.org/project/transformers/), [model summary](https://huggingface.co/docs/transformers/model_summary), 
 * Some other sources (not reviewed): [understanding transformers](http://peterbloem.nl/blog/transformers)
+* Stylish notes on Tess Fernandez [scribd](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng), [website](https://www.tessferrandez.com/presentations/)
